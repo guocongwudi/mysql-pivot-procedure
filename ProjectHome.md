@@ -1,0 +1,1 @@
+We hope to publish MySql stored procedures that help to pivot querys with sum, counts and concat\_group
